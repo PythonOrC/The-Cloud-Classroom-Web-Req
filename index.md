@@ -37,13 +37,13 @@
  - [ ] profile picture
  - [ ] role (student, parent, admin, teacher)
  - [ ] Logout button
- - [ ] [My courses button](## My Courses)
- - [ ] [Order History button](## Order History)
+ - [ ] [My courses button](##My Courses)
+ - [ ] [Order History button](##Order History)
  - [ ] time zone
  - [ ] language
  - [ ] country
  - [ ] grade
- - [ ] [cart button](## Cart)
+ - [ ] [cart button](##Cart)
 
 ## My Courses
 
@@ -69,7 +69,7 @@
    - [ ] order total
    - [ ] total price
    - [ ] continue shopping/ordering link/button
-   - [ ] [proceed to checkout](## Checkout)
+   - [ ] [proceed to checkout](##Checkout)
 
 ## Checkout
  - [ ] Order summary
@@ -77,7 +77,7 @@
    - [ ] course name
    - [ ] course price
    - [ ] order total price
- - [ ] [checkout/payment button](## Payment)
+ - [ ] [checkout/payment button](##Payment)
 
 
 
@@ -88,7 +88,7 @@
  - [ ] button for submission
 
 ## Sign In
- - [ ]  [3rd party sign in buttons/links](## 3rd Party Sign In)
+ - [ ]  [3rd party sign in buttons/links](##3rd Party Sign In)
    - [ ] baidu
    - [ ] google
    - [ ] facebook
@@ -100,11 +100,11 @@
    - [ ] remember me checkbox
    - [ ] sign in button
  - forgot password link/button
- - [sign up button/link](## Sign Up)
+ - [sign up button/link](##Sign Up)
 
 
 ## Sign Up
- - [ ] link to [sign in](## Sign In)
+ - [ ] link to [sign in](##Sign In)
  - [ ] form with input for
    - [ ] username
    - [ ] email
